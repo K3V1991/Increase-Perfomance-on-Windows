@@ -1,4 +1,4 @@
-<p align="center"><img src="https://i.ibb.co/XYvK5JH/Performance.png" width="200"></a>
+<p align="center"><img src="https://github.com/K3V1991/Increase-Perfomance-on-Windows/blob/main/Performance.png" width="200"></a>
 <h1 align="center"><b>Tips and Tricks to increase the Performance on Windows</b></h1>
 <br />
 
