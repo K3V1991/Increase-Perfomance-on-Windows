@@ -8,7 +8,7 @@
 <a href="https://github.com/K3V1991/Donate-Crypto/blob/main/README.md" alt="Crypto"><img src="https://img.shields.io/badge/Bitcoin-000?style=for-the-badge&logo=bitcoin&logoColor=white">
 </p>
 <hr />
-</br>
+<br />
 
 # Table of Contents:
 - 🔥 [General](#general)
@@ -18,8 +18,8 @@
 - 💽 [Drives](#drives)
 - 🌐 [Network](#network)
 - 🆕 [Repair and reset](#repair-and-reset)
-</br>
-</br>
+<br />
+<br />
 
 # General:
 
@@ -80,9 +80,9 @@ Because an App comes from a Company you trust does not mean it's a good App.
 If you have an App affecting Performance, check your Software Support Website for a newer Update and the instructions to apply it.
 
 **[`^        Back to Contents        ^`](#table-of-contents)**
-</br>
-</br>
-</br>
+<br />
+<br />
+<br />
 
 # Updates:
 
@@ -114,9 +114,9 @@ DirectX 12 is the latest version of the API Tool, and it offers support for mult
 11. After you complete the Steps, the new Version of the driver will install to fix Compatibility or any other Issues affecting the System 
 
 **[`^        Back to Contents        ^`](#table-of-contents)**
-</br>
-</br>
-</br>
+<br />
+<br />
+<br />
 
 # Tweaks:
 
@@ -270,9 +270,9 @@ If you increase the size of the Paging File, it can help boost System Performanc
 7. Click the OK Button
 
 **[`^        Back to Contents        ^`](#table-of-contents)**
-</br>
-</br>
-</br>
+<br />
+<br />
+<br />
 
 # Drives: 
 
@@ -300,9 +300,9 @@ If you increase the size of the Paging File, it can help boost System Performanc
 > Upgrading to a Solid State Drive is perhaps one of the best Ways to increase Performance on older Hardware.
 
 **[`^        Back to Contents        ^`](#table-of-contents)**
-</br>
-</br>
-</br>
+<br />
+<br />
+<br />
 
 # Network: 
 
@@ -345,9 +345,9 @@ It is helpful for slower Connections but can contribute to Latency Issues when p
 8. Restart your PC 
 
 **[`^        Back to Contents        ^`](#table-of-contents)**
-</br>
-</br>
-</br>
+<br />
+<br />
+<br />
 
 # Repair and reset: 
 
