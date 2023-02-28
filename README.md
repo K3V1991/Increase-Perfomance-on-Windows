@@ -238,6 +238,17 @@ Indeed, Background Activity often increases when it is enabled, but turning it o
 3. Open Computer ManagementOn the left Side open Services and Applications and there Services
 4. Select SysMain in the Services List and click on Stop the service
 
+
+### Disable VBS/HVCI to increase Performance in Windows 11
+> Virtualization-based security allows Windows 11 to create a Secure Memory Enclave that's isolated from unsafe Code. <br />
+Another built-in feature called Hypervisor-Enforced Code Integrity (HVCI) uses the capabilities of VBS to prevent unsigned or questionable Drivers and Software from getting into Memory. <br />
+VBS and HVCI have a significant Performance Cost, particularly when it comes to gaming. As much as ~5% slower with these Settings on.
+
+1. Search for Core isolation in Windows Search and click the top Result
+2. Toggle Memory integrity to Off
+3. Reboot your PC as prompted
+4. Check System Information again to see if Virtualization-based security is listed as Not enabled
+
 ### Increase Page File Size
 > The Page File is a hidden File on the Drive that works as Memory and it acts as an Overflow of the System Memory, which holds Data for Apps currently running on the Computer. <br /> 
 If you increase the size of the Paging File, it can help boost System Performance.
