@@ -238,7 +238,6 @@ Indeed, Background Activity often increases when it is enabled, but turning it o
 3. Open Computer ManagementOn the left Side open Services and Applications and there Services
 4. Select SysMain in the Services List and click on Stop the service
 
-
 ### Disable VBS/HVCI to increase Performance in Windows 11
 > Virtualization-based security allows Windows 11 to create a Secure Memory Enclave that's isolated from unsafe Code. <br />
 Another built-in feature called Hypervisor-Enforced Code Integrity (HVCI) uses the capabilities of VBS to prevent unsigned or questionable Drivers and Software from getting into Memory. <br />
